@@ -36,6 +36,10 @@ Madhav-Store-Analysis/
 - **Recommendations:** Invest in high-margin products and targeted promotions.  
 
 ---
+## 📊 Dashboard Preview  
+
+Here is a preview of the Power BI dashboard:  
+![madhav store ananlysis dashboard](https://github.com/user-attachments/assets/79dc7a78-76ac-4de1-9034-30da22496784)
 
 ## 🚀 How to Use
 1. Clone or download this repository.  
